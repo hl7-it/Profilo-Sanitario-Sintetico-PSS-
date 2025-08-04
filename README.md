@@ -1,6 +1,6 @@
 # Profilo Sanitario Sintetico-PSS HL7 CDA® R2
 
-[IG HL7 CDA2 Lettera di invito per screening](https://hl7itig.art-decor.pub/hl7itig-html-20250623T101200/tmp-2.16.840.1.113883.2.9.10.1.14.1-2025-05-20T110241.html) 
+[IG HL7 CDA2 Profilo Sanitario Sintetico](https://hl7itig.art-decor.pub/hl7itig-html-20240517T181030/tmp-2.16.840.1.113883.3.1937.777.63.10.391-2023-12-20T153915.html) 
 
 # Ballot: Guida alla votazione
 La procedura di ballot segue lo standard Jira Balloting di HL7 international FHIR, che prevede l'utilizzo delle Issue GitHub (le Issue aperte prima dell'inizio del ballot sono segnalate come "Pre-Ballot Close"). Tale procedura è utile a segnalare commenti correlati alla votazione. 
