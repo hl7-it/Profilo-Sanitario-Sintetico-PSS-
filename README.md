@@ -25,4 +25,4 @@ Le possibili votazioni sono:
 - **Come ad esempio dei cambiamenti che impattano struttura, vincoli, semantica o interoperabilità oppure se si proprone di aggiungere un nuovo attributo o diverso valueset** <img src="input/images/change pro.png" width="95" alt=""/>
 
 - Indicazioni su come fornire votazione valida al fine del ballottaggio è indicato nella sezione: <img src="input/images/change pro.png" width="95" alt=""/>
-  [Discussion](https://github.com/hl7-it/Lettera-di-invito-per-screening/discussions.html) 
+  [Discussion](https://github.com/hl7-it/Profilo-Sanitario-Sintetico-PSS-/discussions) 
