@@ -4,10 +4,7 @@
 
 # Ballot: Guida alla votazione
 La procedura di ballot segue lo standard Jira Balloting di HL7 international FHIR, che prevede l'utilizzo delle Issue GitHub (le Issue aperte prima dell'inizio del ballot sono segnalate come "Pre-Ballot Close"). Tale procedura è utile a segnalare commenti correlati alla votazione, che ufficialmente deve avvenire nell'area [Discussion di GitHub](https://github.com/hl7-it/Profilo-Sanitario-Sintetico-PSS-/discussions.html)
-- *Comment*
-- *Question*
-- *Technical Correction*
-- *Change Proposal*. 
+
 Le possibili votazioni sono: 
 - *Comment*
 - *Question*
